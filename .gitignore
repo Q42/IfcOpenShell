@@ -77,3 +77,10 @@ src/ifcopenshell-python/test/build
 # tox cache
 .tox/
 *.egg-info/
+
+# 3rd party libraries
+Vendor
+
+*.xcarchive
+*.xcframework
+xcuserdata
