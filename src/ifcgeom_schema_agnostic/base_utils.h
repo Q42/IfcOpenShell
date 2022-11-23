@@ -5,6 +5,9 @@
 #include <gp_Pln.hxx>
 #include <gp_Pnt.hxx>
 
+#include <gp_Trsf.hxx>
+#include <gp_GTrsf.hxx>
+
 #include <TopTools_ListOfShape.hxx>
 #include <TopoDS_Wire.hxx>
 #include <TopoDS_Face.hxx>
